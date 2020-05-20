@@ -1,0 +1,22 @@
+C:\Users\noor\AppData\Local\Temporary Projects\SentenceEditor\bin\Debug\SentenceEditor.exe.config
+C:\Users\noor\AppData\Local\Temporary Projects\SentenceEditor\obj\Debug\SentenceEditor.csprojResolveAssemblyReference.cache
+C:\Users\noor\AppData\Local\Temporary Projects\SentenceEditor\obj\Debug\SentenceEditor.Form1.resources
+C:\Users\noor\AppData\Local\Temporary Projects\SentenceEditor\obj\Debug\SentenceEditor.Properties.Resources.resources
+C:\Users\noor\AppData\Local\Temporary Projects\SentenceEditor\obj\Debug\SentenceEditor.csproj.GenerateResource.Cache
+C:\Users\noor\AppData\Local\Temporary Projects\SentenceEditor\bin\Debug\SentenceEditor.exe
+C:\Users\noor\AppData\Local\Temporary Projects\SentenceEditor\bin\Debug\SentenceEditor.pdb
+C:\Users\noor\AppData\Local\Temporary Projects\SentenceEditor\obj\Debug\SentenceEditor.exe
+C:\Users\noor\AppData\Local\Temporary Projects\SentenceEditor\obj\Debug\SentenceEditor.pdb
+C:\Users\noor\Desktop\SentenceEditor\SentenceEditor\bin\Debug\SentenceEditor.exe.config
+C:\Users\noor\Desktop\SentenceEditor\SentenceEditor\obj\Debug\SentenceEditor.exe
+C:\Users\noor\Desktop\SentenceEditor\SentenceEditor\obj\Debug\SentenceEditor.pdb
+C:\Users\noor\Desktop\SentenceEditor\SentenceEditor\bin\Debug\SentenceEditor.exe
+C:\Users\noor\Desktop\SentenceEditor\SentenceEditor\bin\Debug\SentenceEditor.pdb
+C:\Users\noor\Desktop\SentenceEditor\SentenceEditor\obj\Debug\SentenceEditor.csprojResolveAssemblyReference.cache
+C:\Users\noor\Desktop\SentenceEditor\SentenceEditor\obj\Debug\SentenceEditor.Form1.resources
+C:\Users\noor\Desktop\SentenceEditor\SentenceEditor\obj\Debug\SentenceEditor.Properties.Resources.resources
+C:\Users\noor\Desktop\SentenceEditor\SentenceEditor\obj\Debug\SentenceEditor.csproj.GenerateResource.Cache
+C:\Users\noor\Desktop\SentenceEditor\SentenceEditor\bin\Debug\SentenceEditor.exe.manifest
+C:\Users\noor\Desktop\SentenceEditor\SentenceEditor\bin\Debug\SentenceEditor.application
+C:\Users\noor\Desktop\SentenceEditor\SentenceEditor\obj\Debug\SentenceEditor.exe.manifest
+C:\Users\noor\Desktop\SentenceEditor\SentenceEditor\obj\Debug\SentenceEditor.application
