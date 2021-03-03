@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SentenceEditor.exe" size="11176">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SentenceEditor.exe" size="12200">
       <assemblyIdentity name="SentenceEditor" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>cPuFw7Qz4+LDhs0q65bsq7p/pa6rTuwQmqVxXHZFZ3M=</dsig:DigestValue>
+        <dsig:DigestValue>TwlxFsAKIygCpcAJxFVx4LVn5zr7bnfvsBvUoBlcfeE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
