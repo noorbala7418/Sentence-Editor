@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Threading;
 
 namespace SentenceEditor
 {
@@ -17,34 +18,36 @@ namespace SentenceEditor
             InitializeComponent();
         }
 
-        private void btnConvert_Click(object sender, EventArgs e)
-        {
-            String strtxtEnter =Convert.ToString(txtEnter.Text);
-            char[] chrTxtEnter = strtxtEnter.ToCharArray();
-
-            if (strtxtEnter.Equals("") == false)
-            {
-                for (int i = 0; i < chrTxtEnter.Length; i++)
-                {
-                    if (chrTxtEnter[i] == 'ی')
-                    {
-                        chrTxtEnter[i] = 'ي';
-                    }
-                }
-                strtxtEnter = new string(chrTxtEnter);
-                resultLable.Text = strtxtEnter.ToString();
-                Clipboard.SetText(strtxtEnter);
-                resultLable.Text = "در کلیپ بورد ذخیره شد. میتوانید پیست کنید";
-            }
-            else
-            {
-                resultLable.Text ="شما چیزی ننوشتید که بخوام تبدیل کنم";
-            }
-        }
 
         private void btnReset_Click(object sender, EventArgs e)
         {
-            txtEnter.Text = "";                
+            txtEnter.Text = "";
+        }
+
+        private void txtEnter_TextChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                String strtxtEnter = txtEnter.Text;
+                if (strtxtEnter.Contains("ی"))
+                {
+                    if (checkBox1.Checked)
+                    {
+                        strtxtEnter = strtxtEnter.Replace("ئ", "پ");
+                    }
+                    strtxtEnter = strtxtEnter.Replace('ی', 'ي');
+                }
+                Clipboard.SetDataObject(strtxtEnter, true, 1, 10);
+            }
+            catch (System.Runtime.InteropServices.ExternalException sr)
+            {
+                Thread.Sleep(15);
+            }
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -20,3 +20,17 @@ C:\Users\noor\Desktop\SentenceEditor\SentenceEditor\bin\Debug\SentenceEditor.exe
 C:\Users\noor\Desktop\SentenceEditor\SentenceEditor\bin\Debug\SentenceEditor.application
 C:\Users\noor\Desktop\SentenceEditor\SentenceEditor\obj\Debug\SentenceEditor.exe.manifest
 C:\Users\noor\Desktop\SentenceEditor\SentenceEditor\obj\Debug\SentenceEditor.application
+E:\متفرقه\keyboared\Sentence-Editor\SentenceEditor\bin\Debug\SentenceEditor.exe.config
+E:\متفرقه\keyboared\Sentence-Editor\SentenceEditor\bin\Debug\SentenceEditor.exe.manifest
+E:\متفرقه\keyboared\Sentence-Editor\SentenceEditor\bin\Debug\SentenceEditor.application
+E:\متفرقه\keyboared\Sentence-Editor\SentenceEditor\bin\Debug\SentenceEditor.exe
+E:\متفرقه\keyboared\Sentence-Editor\SentenceEditor\bin\Debug\SentenceEditor.pdb
+E:\متفرقه\keyboared\Sentence-Editor\SentenceEditor\obj\Debug\SentenceEditor.csprojAssemblyReference.cache
+E:\متفرقه\keyboared\Sentence-Editor\SentenceEditor\obj\Debug\SentenceEditor.Form1.resources
+E:\متفرقه\keyboared\Sentence-Editor\SentenceEditor\obj\Debug\SentenceEditor.Properties.Resources.resources
+E:\متفرقه\keyboared\Sentence-Editor\SentenceEditor\obj\Debug\SentenceEditor.csproj.GenerateResource.cache
+E:\متفرقه\keyboared\Sentence-Editor\SentenceEditor\obj\Debug\SentenceEditor.csproj.CoreCompileInputs.cache
+E:\متفرقه\keyboared\Sentence-Editor\SentenceEditor\obj\Debug\SentenceEditor.exe.manifest
+E:\متفرقه\keyboared\Sentence-Editor\SentenceEditor\obj\Debug\SentenceEditor.application
+E:\متفرقه\keyboared\Sentence-Editor\SentenceEditor\obj\Debug\SentenceEditor.exe
+E:\متفرقه\keyboared\Sentence-Editor\SentenceEditor\obj\Debug\SentenceEditor.pdb
